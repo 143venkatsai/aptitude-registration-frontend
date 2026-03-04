@@ -5,7 +5,7 @@ function VideoSection() {
     <section className="video-only">
       <iframe
         className="video-frame"
-        src="https://www.youtube.com/embed/eL7pl_v-PQo?autoplay=1&mute=1&rel=0"
+        src="https://www.youtube.com/embed/fEMn2WBXcQ8?autoplay=1&mute=1&rel=0"
         title="Aptitude Crash Course Introduction"
         allow="autoplay; encrypted-media; picture-in-picture"
         allowFullScreen
@@ -30,3 +30,4 @@ function VideoSection() {
 }
 
 export default VideoSection;
+
